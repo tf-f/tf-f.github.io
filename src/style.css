@@ -131,6 +131,10 @@ main{
   margin-bottom:20px;
 }
 
+.icon{
+  padding-top: 50px;
+}
+
 img.icon-top{
   border-radius:60%;
   width:200px;
